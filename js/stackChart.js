@@ -22,7 +22,7 @@ const svg = d3.select('body')
 d3.json('./json/theftOutput.json', (data) => {
   const parse = d3.time.format('%Y').parse;
 
-  let tooltip;
+  // let tooltip;
   // Transpose the data into layers
   const dataset = d3.layout.stack()(['Over$500', '$500AndUnder'].map(values => data.map(d => ({ x: parse(d.Year), y: +d[values] }))));
 
@@ -133,7 +133,7 @@ d3.json('./json/theftOutput.json', (data) => {
 
 
   // tooltip
-  tooltip = svg.append('g')
+  const tooltip = svg.append('g')
     .attr('class', 'tooltip')
     .style('display', 'none');
 
