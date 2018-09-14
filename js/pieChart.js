@@ -50,7 +50,7 @@ d3.json('../json/pieChartData.json',
 
     // console.log(arcs);
 
-//Providing legends and labels to denote sections in chart
+    //Providing legends and labels to denote sections in chart
     arcs.append('text')
       .attr('transform', d => `translate(${label.centroid(d)})`)
       .text(d => `${d.data.Type} : ${d.data.Count}`)
