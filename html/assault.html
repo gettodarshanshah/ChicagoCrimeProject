@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style> 
+            .line1 {
+              fill: none;
+              stroke:#031D44;
+              stroke-width: 2px;
+            }
+            .line2 {
+              fill: none;
+              stroke: #04395E;
+              stroke-width: 2px;
+            }
+            .line3 {
+              fill: none;
+              stroke:#70A288;
+              stroke-width: 2px;
+            }
+    </style>
+</head>
+<body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="../js/multiLineChart.js"></script>
+    <button id="myButton" class="submit-button">Pie Chart</button>
+    <script type="text/javascript">
+        document.getElementById("myButton").onclick = function () {
+            location.href = "pieChart.html";
+        };
+     </script>
+     <button id="myBtn" class="submit-button">Stack Chart</button>
+     <script type="text/javascript">
+         document.getElementById("myBtn").onclick = function () {
+             location.href = "../index.html";
+         };
+     </script>   
+</body>
+</html>

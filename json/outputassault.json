@@ -1,0 +1,98 @@
+[
+  {
+    "Year": "2001",
+    "AssaultCases": 29138,
+    "Arrested": 6611,
+    "NotArrested": 22527
+  },
+  {
+    "Year": "2002",
+    "AssaultCases": 29219,
+    "Arrested": 6732,
+    "NotArrested": 22487
+  },
+  {
+    "Year": "2003",
+    "AssaultCases": 27193,
+    "Arrested": 6341,
+    "NotArrested": 20852
+  },
+  {
+    "Year": "2004",
+    "AssaultCases": 26294,
+    "Arrested": 6349,
+    "NotArrested": 19945
+  },
+  {
+    "Year": "2005",
+    "AssaultCases": 24703,
+    "Arrested": 6020,
+    "NotArrested": 18683
+  },
+  {
+    "Year": "2006",
+    "AssaultCases": 23740,
+    "Arrested": 5752,
+    "NotArrested": 17988
+  },
+  {
+    "Year": "2007",
+    "AssaultCases": 24235,
+    "Arrested": 6003,
+    "NotArrested": 18232
+  },
+  {
+    "Year": "2008",
+    "AssaultCases": 23299,
+    "Arrested": 4754,
+    "NotArrested": 18545
+  },
+  {
+    "Year": "2009",
+    "AssaultCases": 21107,
+    "Arrested": 5184,
+    "NotArrested": 15923
+  },
+  {
+    "Year": "2010",
+    "AssaultCases": 19926,
+    "Arrested": 4605,
+    "NotArrested": 15321
+  },
+  {
+    "Year": "2011",
+    "AssaultCases": 18980,
+    "Arrested": 4780,
+    "NotArrested": 14200
+  },
+  {
+    "Year": "2012",
+    "AssaultCases": 18593,
+    "Arrested": 4498,
+    "NotArrested": 14095
+  },
+  {
+    "Year": "2013",
+    "AssaultCases": 16640,
+    "Arrested": 4143,
+    "NotArrested": 12497
+  },
+  {
+    "Year": "2014",
+    "AssaultCases": 15756,
+    "Arrested": 4191,
+    "NotArrested": 11565
+  },
+  {
+    "Year": "2015",
+    "AssaultCases": 16054,
+    "Arrested": 3809,
+    "NotArrested": 12245
+  },
+  {
+    "Year": "2016",
+    "AssaultCases": 4659,
+    "Arrested": 859,
+    "NotArrested": 3800
+  }
+]

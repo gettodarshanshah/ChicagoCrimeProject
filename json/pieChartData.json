@@ -1,0 +1,18 @@
+[
+  {
+    "Type": "Index Crime",
+    "Count": 101862
+  },
+  {
+    "Type": "Non-Index Crime",
+    "Count": 152396 
+  },
+  {
+    "Type": "Property Crime",
+    "Count": 79051
+  },
+  {
+    "Type": "Violent Crime",
+    "Count": 22811
+  }
+]
